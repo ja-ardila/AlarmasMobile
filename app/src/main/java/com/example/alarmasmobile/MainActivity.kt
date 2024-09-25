@@ -2,12 +2,8 @@ package com.example.alarmasmobile
 
 import android.content.Intent
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
 
 
 class MainActivity : AppCompatActivity() {
@@ -15,12 +11,18 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Encontrar el botón por su ID y establecer el onClickListener
-        val boton = findViewById<Button>(R.id.button_prueba)
-        boton.setOnClickListener {
-            // Crear un intent para cambiar a la segunda actividad
+        // Boton para cambiar a alarma hidratación
+        val alarma_hidratacion = findViewById<Button>(R.id.pantalla_alarma_hidratacion)
+        alarma_hidratacion.setOnClickListener {
             val intent = Intent(this, AlarmaHidratacion::class.java)
-            startActivity(intent)  // Iniciar la segunda actividad
+            startActivity(intent)
+        }
+
+        //Botón para cambiar a registro de caminata
+        val registro_caminata = findViewById<Button>(R.id.pantalla_registro_caminata)
+        registro_caminata.setOnClickListener {
+            val intent = Intent(this, RegistroCaminata::class.java)
+            startActivity(intent)
         }
     }
 }
