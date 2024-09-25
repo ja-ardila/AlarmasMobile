@@ -13,6 +13,9 @@
         android:theme="@style/Theme.AlarmasMobile"
         tools:targetApi="31">
         <activity
+            android:name=".ResumenCaminata"
+            android:exported="false" />
+        <activity
             android:name=".RegistroCaminata"
             android:exported="false" />
         <activity
