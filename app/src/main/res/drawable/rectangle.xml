@@ -1,0 +1,12 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <!-- Rectángulo principal -->
+    <item android:top="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#3DABFF"/>
+        </shape>
+    </item>
+
+</layer-list>
