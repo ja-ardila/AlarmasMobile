@@ -3146,16 +3146,19 @@ id BOTTOM_START
 id CTRL
 id CronometroBtn
 id FUNCTION
+id ForgotBtn
 id HOME
 id HidratacionBtn
 id Inferior
 id IniciarSesion
+id Logo
 id META
 id NO_DEBUG
 id PasosBtn
 id PausaBtn
 id ProgresoBtn
 id Registro
+id RegistroBtn
 id SHIFT
 id SHOW_ALL
 id SHOW_PATH
@@ -3431,6 +3434,7 @@ id line3
 id linear
 id listMode
 id list_item
+id loginBtn
 id m3_side_sheet
 id marquee
 id masked

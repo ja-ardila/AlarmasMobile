@@ -3145,16 +3145,19 @@ int id BOTTOM_START 0x7f080002
 int id CTRL 0x7f080003
 int id CronometroBtn 0x7f080004
 int id FUNCTION 0x7f080005
+int id ForgotBtn 0x7f080235
 int id HOME 0x7f080006
 int id HidratacionBtn 0x7f080007
 int id Inferior 0x7f080008
 int id IniciarSesion 0x7f080009
+int id Logo 0x7f080236
 int id META 0x7f08000a
 int id NO_DEBUG 0x7f08000b
 int id PasosBtn 0x7f08000c
 int id PausaBtn 0x7f08000d
 int id ProgresoBtn 0x7f08000e
 int id Registro 0x7f08000f
+int id RegistroBtn 0x7f080237
 int id SHIFT 0x7f080010
 int id SHOW_ALL 0x7f080011
 int id SHOW_PATH 0x7f080012
@@ -3430,6 +3433,7 @@ int id line3 0x7f08011f
 int id linear 0x7f080120
 int id listMode 0x7f080121
 int id list_item 0x7f080122
+int id loginBtn 0x7f080234
 int id m3_side_sheet 0x7f080123
 int id marquee 0x7f080124
 int id masked 0x7f080125

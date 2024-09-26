@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-36:12
-INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:1-44:12
 MERGED from [com.google.android.material:material:1.12.0] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/7539489da48b4512ed13eab4204306f7/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/89065a36ea6dc29d22f39d9f3a201aff/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/e03e07afe9e17aafe4c7b254a0bab1db/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
@@ -56,8 +56,8 @@ MERGED from [androidx.print:print:1.0.0] /Users/andrespelaezgaviria/.gradle/cach
 	xmlns:android
 		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:5:5-34:19
-INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:5:5-34:19
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:5:5-42:19
+INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:5:5-42:19
 MERGED from [com.google.android.material:material:1.12.0] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/7539489da48b4512ed13eab4204306f7/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.12.0] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/7539489da48b4512ed13eab4204306f7/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/89065a36ea6dc29d22f39d9f3a201aff/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -96,42 +96,56 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/andr
 		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:13:9-51
 	android:dataExtractionRules
 		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:7:9-65
-activity#com.example.alarmasmobile.ResumenCaminata
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:15:9-17:40
+activity#com.example.alarmasmobile.LoginActivity
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:15:9-23:20
 	android:exported
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:17:13-37
-	android:name
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:16:13-44
-activity#com.example.alarmasmobile.RegistroCaminata
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:18:9-20:40
-	android:exported
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:20:13-37
-	android:name
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:19:13-45
-activity#com.example.alarmasmobile.AlarmaHidratacion
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:21:9-23:40
-	android:exported
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:23:13-37
-	android:name
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:22:13-46
-activity#com.example.alarmasmobile.MainActivity
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:24:9-33:20
-	android:exported
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:26:13-36
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:17:13-36
 	android:theme
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:27:13-63
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:18:13-63
 	android:name
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:25:13-41
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:16:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:28:13-32:29
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:29:17-69
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:29:25-66
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:31:17-77
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:31:27-74
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.alarmasmobile.ResumenCaminata
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:26:13-44
+activity#com.example.alarmasmobile.RegistroCaminata
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:29:13-45
+activity#com.example.alarmasmobile.WelcomeActivity
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:32:13-44
+activity#com.example.alarmasmobile.AlarmaHidratacion
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:35:13-46
+activity#com.example.alarmasmobile.MainActivity
+ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:37:9-41:20
+	android:exported
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:39:13-36
+	android:theme
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:38:13-41
 uses-sdk
 INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml
