@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_texto_caminata.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/texto_caminata.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_login.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_agua_faltante.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/agua_faltante.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_resumen_caminata.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_resumen_caminata.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_alarma_hidratacion.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_alarma_hidratacion.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_detener_alarma.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/detener_alarma.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_background.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/background.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_botella_arriba.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/botella_arriba.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_label_repetirse.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/label_repetirse.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_label_veces.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/label_veces.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_fondo_alarma_hidratacion.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/fondo_alarma_hidratacion.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_kilometros.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/kilometros.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_fondo_info_resumen_caminata.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/fondo_info_resumen_caminata.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_progreso.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/progreso.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_titulo_alarma_hidratacion.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/titulo_alarma_hidratacion.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_label_pasos.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/label_pasos.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_minutos.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/minutos.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_btn_guardar.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/btn_guardar.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_fondo_montanas.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/fondo_montanas.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_edittext_background.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_top_bar_naranja.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/top_bar_naranja.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_a__inactiveuser.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/a__inactiveuser.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_texto_resumen.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/texto_resumen.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_hora_alarma.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/hora_alarma.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_hora_de_hidratarse.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/hora_de_hidratarse.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_right_aligned_iconolvide.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/right_aligned_iconolvide.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_set_time.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/set_time.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_bota_esquina.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/bota_esquina.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_fondo_alarma_hidratacion_cortada.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/fondo_alarma_hidratacion_cortada.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_btn_inicio.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/btn_inicio.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_a__textses.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/a__textses.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_a__textregis.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/a__textregis.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_background1.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/background1.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_btn_compartir.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/btn_compartir.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_fondo_azul_campo_texto.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/fondo_azul_campo_texto.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_rectangle.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/rectangle.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_top_bar_azul.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/top_bar_azul.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable__001111.jpg.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/_001111.jpg"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_welcome_layout.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_welcome_layout.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_label_resumen.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/label_resumen.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_a__inactivecontra.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/a__inactivecontra.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_back.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/back.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_label_inicio_recordatorio.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/label_inicio_recordatorio.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_saly_1.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/saly_1.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_bota_morada.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/bota_morada.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_registro_caminata.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_registro_caminata.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_sombra_generica.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/sombra_generica.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/drawable_botella_abajo.png.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/drawable/botella_abajo.png"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_login_img.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_login_img.xml"
+    },
+    {
+        "merged": "com.example.alarmasmobile.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

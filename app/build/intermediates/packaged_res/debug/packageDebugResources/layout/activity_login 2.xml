@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/Superior"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="515dp"
+            android:layout_height="418dp"
+            android:contentDescription="@string/LogoIniciar"
+            android:scaleType="centerInside"
+            app:layout_constraintBottom_toTopOf="@+id/Inferior"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/_001111" />
+
+        <LinearLayout
+            android:id="@+id/Inferior"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:elevation="0dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:layout_editor_absoluteX="7dp">
+
+            <LinearLayout
+                android:id="@+id/User"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/labeluserfield"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:autofillHints="username"
+                    android:background="#FF7A3D"
+                    android:ems="10"
+                    android:hint="@string/UserEmail"
+                    android:inputType="text"
+                    android:paddingLeft="16dp"
+                    android:text="@string/UserEmail" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/clave"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="16dp"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/labelclavefield"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_weight="1"
+                    android:autofillHints="username"
+                    android:background="@drawable/edittext_background"
+                    android:ems="10"
+                    android:elevation="0dp"
+                    android:hint="@string/Contrasena"
+                    android:inputType="text"
+                    android:paddingLeft="16dp"
+                    android:text="@string/Contrasena" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/Registro"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginHorizontal="62dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="#007ACC"
+                android:fontFamily="sans-serif"
+                android:text="@string/LabalRegistrarBtn"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                app:cornerRadius="10dp"
+                tools:text="@string/LabalRegistrarBtn" />
+
+            <Button
+                android:id="@+id/IniciarSesion"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginHorizontal="62dp"
+                android:layout_marginVertical="16dp"
+                android:backgroundTint="#007ACC"
+                android:text="@string/LabalIniciarSesionBtn"
+                android:textSize="24sp"
+                app:cornerRadius="10dp"
+                tools:text="@string/LabalIniciarSesionBtn" />
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
