@@ -20,63 +20,63 @@
 15-->[androidx.core:core:1.13.1] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/ed21a483b03f5a989300db3288b83781/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 16
 17    <application
-17-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:5:5-34:19
+17-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:5:5-34:19
 18        android:allowBackup="true"
-18-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:6:9-35
+18-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:6:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.13.1] /Users/andrespelaezgaviria/.gradle/caches/transforms-3/ed21a483b03f5a989300db3288b83781/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:7:9-65
+20-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:7:9-65
 21        android:debuggable="true"
 22        android:extractNativeLibs="false"
 23        android:fullBackupContent="@xml/backup_rules"
-23-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:8:9-54
+23-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:8:9-54
 24        android:icon="@mipmap/ic_launcher"
-24-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:9:9-43
+24-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:9:9-43
 25        android:label="@string/app_name"
-25-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:10:9-41
+25-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:10:9-41
 26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:11:9-54
+26-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:11:9-54
 27        android:supportsRtl="true"
-27-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:12:9-35
+27-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:12:9-35
 28        android:testOnly="true"
 29        android:theme="@style/Theme.AlarmasMobile" >
-29-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:13:9-51
+29-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:13:9-51
 30        <activity
-30-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:15:9-17:40
+30-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:15:9-17:40
 31            android:name="com.example.alarmasmobile.ResumenCaminata"
-31-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:16:13-44
+31-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:16:13-44
 32            android:exported="false" />
-32-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:17:13-37
+32-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:17:13-37
 33        <activity
-33-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:18:9-20:40
+33-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:18:9-20:40
 34            android:name="com.example.alarmasmobile.RegistroCaminata"
-34-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:19:13-45
+34-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:19:13-45
 35            android:exported="false" />
-35-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:20:13-37
+35-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:20:13-37
 36        <activity
-36-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:21:9-23:40
+36-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:21:9-23:40
 37            android:name="com.example.alarmasmobile.AlarmaHidratacion"
-37-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:22:13-46
+37-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:22:13-46
 38            android:exported="false" />
-38-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:23:13-37
+38-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:23:13-37
 39        <activity
-39-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:24:9-33:20
+39-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:24:9-33:20
 40            android:name="com.example.alarmasmobile.MainActivity"
-40-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:25:13-41
+40-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:25:13-41
 41            android:exported="true"
-41-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:26:13-36
+41-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:26:13-36
 42            android:theme="@style/Theme.AppCompat.NoActionBar" >
-42-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:27:13-63
+42-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:27:13-63
 43            <intent-filter>
-43-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:28:13-32:29
+43-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:28:13-32:29
 44                <action android:name="android.intent.action.MAIN" />
-44-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:29:17-69
-44-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:29:25-66
+44-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:29:17-69
+44-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:29:25-66
 45
 46                <category android:name="android.intent.category.LAUNCHER" />
-46-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:31:17-77
-46-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/AndroidManifest.xml:31:27-74
+46-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:31:17-77
+46-->/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/AndroidManifest.xml:31:27-74
 47            </intent-filter>
 48        </activity>
 49

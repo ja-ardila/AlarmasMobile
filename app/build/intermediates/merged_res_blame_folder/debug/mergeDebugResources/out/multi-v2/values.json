@@ -78,7 +78,24 @@
                     }
                 },
                 {
-                    "source": "/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/res/values/themes.xml",
+                    "source": "/Users/andrespelaezgaviria/.gradle/caches/transforms-3/13c2cf883b98fa64abe7a3519ce83c0e/transformed/lifecycle-viewmodel-2.6.2/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "1877",
+                        "startColumns": "4",
+                        "startOffsets": "124144",
+                        "endColumns": "49",
+                        "endOffsets": "124189"
+                    }
+                },
+                {
+                    "source": "/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/res/values/themes.xml",
                     "from": {
                         "startLines": "2,7",
                         "startColumns": "4,4",
@@ -94,23 +111,6 @@
                         "endLines": "2444,6361",
                         "endColumns": "12,73",
                         "endOffsets": "171393,445089"
-                    }
-                },
-                {
-                    "source": "/Users/andrespelaezgaviria/.gradle/caches/transforms-3/13c2cf883b98fa64abe7a3519ce83c0e/transformed/lifecycle-viewmodel-2.6.2/res/values/values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "49",
-                        "endOffsets": "100"
-                    },
-                    "to": {
-                        "startLines": "1877",
-                        "startColumns": "4",
-                        "startOffsets": "124144",
-                        "endColumns": "49",
-                        "endOffsets": "124189"
                     }
                 },
                 {
@@ -186,7 +186,24 @@
                     }
                 },
                 {
-                    "source": "/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/res/values/colors.xml",
+                    "source": "/Users/andrespelaezgaviria/.gradle/caches/transforms-3/765369fc213fdc9b2e6337451d8ddab3/transformed/activity-1.8.0/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,59",
+                        "endOffsets": "92,152"
+                    },
+                    "to": {
+                        "startLines": "1831,1875",
+                        "startColumns": "4,4",
+                        "startOffsets": "121807,124030",
+                        "endColumns": "41,59",
+                        "endOffsets": "121844,124085"
+                    }
+                },
+                {
+                    "source": "/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -203,20 +220,20 @@
                     }
                 },
                 {
-                    "source": "/Users/andrespelaezgaviria/.gradle/caches/transforms-3/765369fc213fdc9b2e6337451d8ddab3/transformed/activity-1.8.0/res/values/values.xml",
+                    "source": "/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ENTREGA/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,97",
-                        "endColumns": "41,59",
-                        "endOffsets": "92,152"
+                        "startLines": "17,14,8,6,13,10,15,3,2,4,11,12,9,16,5,7,1",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "853,711,400,284,661,501,757,125,67,190,556,609,458,795,235,334,16",
+                        "endColumns": "56,45,57,49,49,54,37,64,57,44,52,51,42,57,48,65,50",
+                        "endOffsets": "905,752,453,329,706,551,790,185,120,230,604,656,496,848,279,395,62"
                     },
                     "to": {
-                        "startLines": "1831,1875",
-                        "startColumns": "4,4",
-                        "startOffsets": "121807,124030",
-                        "endColumns": "41,59",
-                        "endOffsets": "121844,124085"
+                        "startLines": "1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1995",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "129094,129151,129197,129255,129305,129355,129410,129448,129513,129571,129616,129669,129721,129764,129822,129871,131886",
+                        "endColumns": "56,45,57,49,49,54,37,64,57,44,52,51,42,57,48,65,50",
+                        "endOffsets": "129146,129192,129250,129300,129350,129405,129443,129508,129566,129611,129664,129716,129759,129817,129866,129932,131932"
                     }
                 },
                 {
@@ -310,23 +327,6 @@
                         "endLines": "138,141,1054,11348",
                         "endColumns": "55,47,51,24",
                         "endOffsets": "7047,7203,62851,720066"
-                    }
-                },
-                {
-                    "source": "/Users/andrespelaezgaviria/Documents/Maestria/CUARTO_SEMESTRE/ux/SEMANA7DEV/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "17,14,8,6,13,10,15,3,2,4,11,12,9,16,5,7,1",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "853,711,400,284,661,501,757,125,67,190,556,609,458,795,235,334,16",
-                        "endColumns": "56,45,57,49,49,54,37,64,57,44,52,51,42,57,48,65,50",
-                        "endOffsets": "905,752,453,329,706,551,790,185,120,230,604,656,496,848,279,395,62"
-                    },
-                    "to": {
-                        "startLines": "1951,1952,1953,1954,1955,1956,1957,1958,1959,1960,1961,1962,1963,1964,1965,1966,1995",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "129094,129151,129197,129255,129305,129355,129410,129448,129513,129571,129616,129669,129721,129764,129822,129871,131886",
-                        "endColumns": "56,45,57,49,49,54,37,64,57,44,52,51,42,57,48,65,50",
-                        "endOffsets": "129146,129192,129250,129300,129350,129405,129443,129508,129566,129611,129664,129716,129759,129817,129866,129932,131932"
                     }
                 },
                 {
