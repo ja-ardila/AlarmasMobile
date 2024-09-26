@@ -132,6 +132,10 @@
         "source": "/Users/andrespelaezgaviria/.gradle/daemon/8.4/com.example.alarmasmobile.app-main-33:/mipmap-mdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.example.alarmasmobile.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.alarmasmobile.app-main-33:/layout/activity_login.xml"
+    },
+    {
         "merged": "/Users/andrespelaezgaviria/.gradle/daemon/8.4/com.example.alarmasmobile.app-debug-31:/drawable_botella_arriba.png.flat",
         "source": "/Users/andrespelaezgaviria/.gradle/daemon/8.4/com.example.alarmasmobile.app-main-33:/drawable/botella_arriba.png"
     },

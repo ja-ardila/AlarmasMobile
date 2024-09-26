@@ -52,7 +52,6 @@ id CronometroBtn
 id ForgotBtn
 id HOME
 id HidratacionBtn
-id Inferior
 id IniciarSesion
 id Logo
 id PasosBtn
@@ -60,9 +59,7 @@ id PausaBtn
 id ProgresoBtn
 id Registro
 id RegistroBtn
-id Superior
 id TopBarAzul
-id User
 id WalkBtn
 id agua_faltante
 id alarma_hidratacion
@@ -76,7 +73,6 @@ id boton_detener
 id boton_guardar
 id btn_compartir
 id btn_inicio
-id clave
 id cloud
 id edit_pasos
 id edit_repeticiones
@@ -86,6 +82,7 @@ id fondo_hidratacion
 id fondo_montana
 id fondohome
 id hora
+id imageView
 id imageView2
 id imageView3
 id imageView4

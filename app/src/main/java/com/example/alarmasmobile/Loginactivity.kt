@@ -9,10 +9,10 @@ import androidx.appcompat.app.AppCompatActivity
 class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) { // Corrected parameter name
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_login_img)
+        setContentView(R.layout.activity_login)
 
-        // Boton para cambiar a alarma hidratación
-        val iniciar_sesion = findViewById<ImageView>(R.id.loginBtn)
+
+        val iniciar_sesion = findViewById<Button>(R.id.IniciarSesion)
         iniciar_sesion.setOnClickListener {
             val intent = Intent(this, WelcomeActivity::class.java)
             startActivity(intent)
