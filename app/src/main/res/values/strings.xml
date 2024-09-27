@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">AlarmasMobile</string>
+    <string name="LabalRegistrarBtn">REGISTRO</string>
+    <string name="LabalIniciarSesionBtn">INICIAR SESIÓN</string>
+    <string name="LogoIniciar">Logo</string>
+    <string name="UserEmail">User/Email</string>
+    <string name="Contrasena">Contraseña</string>
+    <string name="WelcomeTittle">INICIA HOY\n TU PROCESO</string>
+    <string name="Cloud">EL CIELO ES EL\n LIMITE</string>
+    <string name="PusaBtn">PAUSAS</string>
+    <string name="HidratacionBtn">HIDRATACIÓN</string>
+    <string name="PasosBtn">CONTEO DE PASOS</string>
+    <string name="ProgresoBtn">MI PROGRESO</string>
+    <string name="Cronometro">CRONOMETRO</string>
+    <string name="Caminata">CAMINATA</string>
+    <string name="Home">HOME</string>
+    <string name="RegistroBtn">REGISTRO CAMINATA</string>
+    <string name="AlarmaBtn">ALARMA HIDRATACIÓN</string>
+
+
+
+
+
+
 </resources>

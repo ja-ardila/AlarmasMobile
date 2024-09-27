@@ -17,4 +17,8 @@ Y se coloca el siguiente sistema operativo. En el proyecto utilizamos UpsideDown
 
 Ya con esto configurado podemos correr el proyecto en el emulador dando clic en la flecha verde:
 
+
 ![Captura de pantalla 2024-09-24 a la(s) 23 33 56](https://github.com/user-attachments/assets/84ed721e-f156-4abe-a62c-4c301f9d2a8f)
+
+![Captura de pantalla 2024-09-24 a la(s) 23 33 56](https://github.com/user-attachments/assets/84ed721e-f156-4abe-a62c-4c301f9d2a8f)
+
